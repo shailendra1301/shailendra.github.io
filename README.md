@@ -4,6 +4,6 @@ This application is created using React for visualizing classic sorting algorith
 
 ![](/public/sv.png)
 
-## Setting Up & Running the application
+
 
 
